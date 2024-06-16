@@ -1,0 +1,316 @@
+Ticker,Security Name,Sector,Industry,Price,Weight,Return,Contribution
+MSFT,Microsoft Corporation,Information Technology,Software,426.49,0.1735,0.3153,542.03
+AAPL,Apple Inc.,Information Technology,Technology Hardware Storage and Peripherals,195.46,0.1533,0.1050,189.93
+NVDA,NVIDIA Corporation,Information Technology,Semiconductors and Semiconductor Equipment,120.70,0.1194,2.1139,1056.49
+AVGO,Broadcom Inc.,Information Technology,Semiconductors and Semiconductor Equipment,1427.40,0.0441,0.8091,257.24
+CRM,Salesforce Inc.,Information Technology,Software,242.15,0.0200,0.1261,29.26
+AMD,Advanced Micro Devices Inc.,Information Technology,Semiconductors and Semiconductor Equipment,163.05,0.0196,0.3052,59.85
+ADBE,Adobe Inc.,Information Technology,Software,458.48,0.0161,0.0960,18.35
+CSCO,Cisco Systems Inc.,Information Technology,Communications Equipment,45.67,0.0147,-0.0540,-10.92
+ACN,Accenture plc,Information Technology,IT Services,288.26,0.0145,-0.0519,-10.33
+ORCL,Oracle Corporation,Information Technology,Software,125.95,0.0144,0.1630,26.37
+QCOM,QUALCOMM Incorporated,Information Technology,Semiconductors and Semiconductor Equipment,209.65,0.0143,0.8617,86.31
+INTU,Intuit Inc.,Information Technology,Software,567.58,0.0135,0.3236,43.07
+AMAT,Applied Materials Inc.,Information Technology,Semiconductors and Semiconductor Equipment,226.03,0.0129,0.6736,67.60
+TXN,Texas Instruments Incorporated,Information Technology,Semiconductors and Semiconductor Equipment,196.09,0.0124,0.1858,25.34
+IBM,International Business Machines Corporation,Information Technology,IT Services,170.12,0.0117,0.3109,36.19
+NOW,ServiceNow Inc.,Information Technology,Software,699.63,0.0110,0.3243,35.03
+INTC,Intel Corporation,Information Technology,Semiconductors and Semiconductor Equipment,30.61,0.0099,-0.0097,-1.26
+MU,Micron Technology Inc.,Information Technology,Semiconductors and Semiconductor Equipment,133.77,0.0098,1.0565,65.87
+LRCX,Lam Research Corporation,Information Technology,Semiconductors and Semiconductor Equipment,982.19,0.0093,0.6253,46.47
+ADI,Analog Devices Inc.,Information Technology,Semiconductors and Semiconductor Equipment,235.22,0.0078,0.3128,24.37
+KLAC,KLA Corporation,Information Technology,Semiconductors and Semiconductor Equipment,779.71,0.0074,0.6977,39.84
+PANW,Palo Alto Networks Inc.,Information Technology,Software,304.08,0.0067,0.3816,23.97
+SNPS,Synopsys Inc.,Information Technology,Software,571.22,0.0064,0.3018,19.40
+CDNS,Cadence Design Systems Inc.,Information Technology,Software,294.22,0.0060,0.3225,19.00
+APH,Amphenol Corporation,Information Technology,Electronic Equipment Instruments and Components,132.56,0.0058,0.7102,31.55
+ANET,Arista Networks Inc.,Information Technology,Communications Equipment,295.49,0.0055,0.8182,32.02
+NXPI,NXP Semiconductors N.V.,Information Technology,Semiconductors and Semiconductor Equipment,273.61,0.0054,0.5078,23.70
+CRWD,CrowdStrike Holdings Inc.,Information Technology,Software,381.71,0.0054,1.5579,42.78
+MRVL,Marvell Technology Inc.,Information Technology,Semiconductors and Semiconductor Equipment,68.97,0.0047,0.1539,8.10
+MSI,Motorola Solutions Inc.,Information Technology,Communications Equipment,370.49,0.0046,0.3352,15.05
+ROP,Roper Technologies Inc.,Information Technology,Software,552.96,0.0045,0.2308,10.92
+WDAY,Workday Inc.,Information Technology,Software,212.89,0.0042,0.0465,2.43
+MCHP,Microchip Technology Incorporated,Information Technology,Semiconductors and Semiconductor Equipment,93.47,0.0042,0.1780,8.19
+SMCI,Super Micro Computer Inc.,Information Technology,Technology Hardware Storage and Peripherals,800.69,0.0039,2.3393,35.69
+ADSK,Autodesk Inc.,Information Technology,Software,216.47,0.0038,0.0761,3.51
+SNOW,Snowflake Inc.,Information Technology,IT Services,129.09,0.0037,-0.2435,-15.40
+TEL,TE Connectivity Ltd.,Information Technology,Electronic Equipment Instruments and Components,149.41,0.0037,0.1832,7.41
+FTNT,Fortinet Inc.,Information Technology,Software,59.91,0.0035,-0.1066,-5.49
+PLTR,Palantir Technologies Inc.,Information Technology,Software,23.11,0.0035,0.5389,15.88
+DDOG,Datadog Inc.,Information Technology,Software,112.67,0.0030,0.1782,5.85
+DELL,Dell Technologies Inc.,Information Technology,Technology Hardware Storage and Peripherals,133.79,0.0029,1.8695,24.70
+CTSH,Cognizant Technology Solutions Corporation,Information Technology,IT Services,66.97,0.0029,0.0973,3.30
+CDW,CDW Corporation,Information Technology,Electronic Equipment Instruments and Components,222.94,0.0028,0.3087,8.73
+MPWR,Monolithic Power Systems Inc.,Information Technology,Semiconductors and Semiconductor Equipment,766.27,0.0028,0.5385,12.91
+IT,Gartner Inc.,Information Technology,IT Services,434.08,0.0028,0.2788,7.87
+ON,ON Semiconductor Corporation,Information Technology,Semiconductors and Semiconductor Equipment,73.12,0.0027,-0.1786,-7.68
+HUBS,HubSpot Inc.,Information Technology,Software,596.35,0.0025,0.1849,5.16
+ANSS,ANSYS Inc.,Information Technology,Software,325.57,0.0025,0.0407,1.28
+FICO,Fair Isaac Corporation,Information Technology,Software,1301.53,0.0025,0.6800,13.19
+GLW,Corning Incorporated,Information Technology,Electronic Equipment Instruments and Components,36.76,0.0025,0.1607,4.44
+MDB,MongoDB Inc.,Information Technology,IT Services,229.08,0.0024,-0.3883,-19.94
+HPQ,HP Inc.,Information Technology,Technology Hardware Storage and Peripherals,36.03,0.0024,0.2530,6.29
+TEAM,Atlassian Corporation,Information Technology,Software,162.50,0.0024,-0.0516,-1.67
+NET,Cloudflare Inc.,Information Technology,IT Services,71.23,0.0023,0.1161,3.17
+KEYS,Keysight Technologies Inc.,Information Technology,Electronic Equipment Instruments and Components,135.53,0.0023,-0.1612,-5.86
+WDC,Western Digital Corporation,Information Technology,Technology Hardware Storage and Peripherals,75.86,0.0022,0.8956,13.36
+HPE,Hewlett Packard Enterprise Company,Information Technology,Technology Hardware Storage and Peripherals,20.37,0.0021,0.3311,6.68
+NTAP,NetApp Inc.,Information Technology,Technology Hardware Storage and Peripherals,122.23,0.0020,0.7956,11.55
+PTC,PTC Inc.,Information Technology,Software,174.31,0.0020,0.2822,5.74
+ENTG,Entegris Inc.,Information Technology,Semiconductors and Semiconductor Equipment,131.89,0.0019,0.2135,4.40
+TYL,Tyler Technologies Inc.,Information Technology,Software,480.05,0.0019,0.2351,4.76
+TER,Teradyne Inc.,Information Technology,Semiconductors and Semiconductor Equipment,142.74,0.0018,0.3649,6.31
+FSLR,First Solar Inc.,Information Technology,Semiconductors and Semiconductor Equipment,277.16,0.0018,0.4435,7.01
+TDY,Teledyne Technologies Incorporated,Information Technology,Electronic Equipment Instruments and Components,388.11,0.0017,-0.0099,-0.23
+SWKS,Skyworks Solutions Inc.,Information Technology,Semiconductors and Semiconductor Equipment,93.05,0.0017,-0.0847,-2.07
+STX,Seagate Technology Holdings plc,Information Technology,Technology Hardware Storage and Peripherals,97.62,0.0017,0.7102,9.20
+ZBRA,Zebra Technologies Corporation,Information Technology,Electronic Equipment Instruments and Components,300.18,0.0017,0.0929,1.86
+MSTR,MicroStrategy Incorporated,Information Technology,Software,1624.75,0.0017,4.5870,17.97
+GDDY,GoDaddy Inc.,Information Technology,IT Services,142.53,0.0017,0.9627,10.74
+ZS,Zscaler Inc.,Information Technology,Software,184.91,0.0016,0.2259,3.75
+NTNX,Nutanix Inc.,Information Technology,Software,53.88,0.0016,0.8587,9.39
+AKAM,Akamai Technologies Inc.,Information Technology,IT Services,89.45,0.0015,-0.0328,-0.68
+ZM,Zoom Video Communications Inc.,Information Technology,Software,62.93,0.0015,-0.0627,-1.34
+TRMB,Trimble Inc.,Information Technology,Electronic Equipment Instruments and Components,55.44,0.0015,0.0834,1.55
+VRSN,VeriSign Inc.,Information Technology,IT Services,178.35,0.0015,-0.1924,-4.78
+PSTG,Pure Storage Inc.,Information Technology,Technology Hardware Storage and Peripherals,66.08,0.0015,0.9425,9.67
+ENPH,Enphase Energy Inc.,Information Technology,Semiconductors and Semiconductor Equipment,127.34,0.0015,-0.2706,-7.35
+OKTA,Okta Inc.,Information Technology,IT Services,88.46,0.0015,0.2281,3.65
+JBL,Jabil Inc.,Information Technology,Electronic Equipment Instruments and Components,115.75,0.0015,0.2381,3.73
+APP,AppLovin Corporation,Information Technology,Software,82.38,0.0015,2.6353,13.79
+EPAM,EPAM Systems Inc.,Information Technology,IT Services,177.21,0.0014,-0.1566,-3.41
+FLEX,Flex Ltd.,Information Technology,Electronic Equipment Instruments and Components,32.45,0.0014,0.6943,7.21
+DT,Dynatrace Inc.,Information Technology,Software,46.40,0.0013,-0.0830,-1.57
+MANH,Manhattan Associates Inc.,Information Technology,Software,219.67,0.0013,0.1822,2.65
+QRVO,Qorvo Inc.,Information Technology,Semiconductors and Semiconductor Equipment,101.43,0.0013,0.0270,0.45
+DOCU,DocuSign Inc.,Information Technology,Software,51.47,0.0013,-0.1005,-1.85
+GEN,Gen Digital Inc.,Information Technology,Software,24.43,0.0013,0.4070,4.79
+BSY,Bentley Systems Incorporated,Information Technology,Software,49.25,0.0013,-0.0231,-0.39
+JNPR,Juniper Networks Inc.,Information Technology,Communications Equipment,35.56,0.0012,0.2110,2.79
+TWLO,Twilio Inc.,Information Technology,IT Services,57.70,0.0012,-0.0969,-1.66
+SNX,TD SYNNEX Corporation,Information Technology,Electronic Equipment Instruments and Components,130.04,0.0011,0.4190,4.39
+FFIV,F5 Inc.,Information Technology,Communications Equipment,166.38,0.0011,0.1336,1.72
+LSCC,Lattice Semiconductor Corporation,Information Technology,Semiconductors and Semiconductor Equipment,61.33,0.0011,-0.2386,-4.57
+ONTO,Onto Innovation Inc.,Information Technology,Semiconductors and Semiconductor Equipment,220.17,0.0011,0.9997,7.23
+ESTC,Elastic N.V.,Information Technology,Software,110.36,0.0011,0.5615,5.11
+COHR,Coherent Corp.,Information Technology,Electronic Equipment Instruments and Components,66.34,0.0011,0.7051,5.77
+GWRE,Guidewire Software Inc.,Information Technology,Software,131.62,0.0011,0.8372,6.29
+MKSI,MKS Instruments Inc.,Information Technology,Semiconductors and Semiconductor Equipment,130.12,0.0010,0.3104,3.09
+CGNX,Cognex Corporation,Information Technology,Electronic Equipment Instruments and Components,43.30,0.0010,-0.2114,-3.42
+OLED,Universal Display Corporation,Information Technology,Semiconductors and Semiconductor Equipment,182.43,0.0010,0.2866,2.79
+PATH,UiPath Inc.,Information Technology,Software,12.09,0.0010,-0.2962,-5.26
+ARW,Arrow Electronics Inc.,Information Technology,Electronic Equipment Instruments and Components,132.40,0.0009,-0.0132,-0.17
+CIEN,Ciena Corporation,Information Technology,Communications Equipment,45.95,0.0009,0.0616,0.71
+IOT,Samsara Inc.,Information Technology,Software,30.59,0.0009,0.1513,1.58
+SPSC,SPS Commerce Inc.,Information Technology,Software,184.13,0.0009,0.0877,0.97
+FN,Fabrinet,Information Technology,Electronic Equipment Instruments and Components,236.61,0.0009,1.1049,6.16
+U,Unity Software Inc.,Information Technology,Software,17.68,0.0009,-0.5129,-12.08
+VNT,Vontier Corporation,Information Technology,Electronic Equipment Instruments and Components,38.55,0.0009,0.2567,2.34
+MTSI,MACOM Technology Solutions Holdings Inc.,Information Technology,Semiconductors and Semiconductor Equipment,102.60,0.0009,0.7131,4.77
+PCOR,Procore Technologies Inc.,Information Technology,Software,66.89,0.0009,0.0299,0.33
+BILL,BILL Holdings Inc.,Information Technology,Software,52.06,0.0009,-0.5483,-13.76
+QLYS,Qualys Inc.,Information Technology,Software,137.46,0.0009,0.0856,0.89
+DBX,Dropbox Inc.,Information Technology,Software,21.18,0.0009,-0.0947,-1.17
+LFUS,Littelfuse Inc.,Information Technology,Electronic Equipment Instruments and Components,248.59,0.0008,-0.0610,-0.72
+PI,Impinj Inc.,Information Technology,Semiconductors and Semiconductor Equipment,149.74,0.0008,0.4466,3.42
+NOVT,Novanta Inc.,Information Technology,Electronic Equipment Instruments and Components,160.28,0.0008,-0.0633,-0.75
+AZPN,Aspen Technology Inc.,Information Technology,Software,202.32,0.0008,0.2232,2.00
+HCP,HashiCorp Inc.,Information Technology,Software,33.79,0.0008,-0.0282,-0.32
+RMBS,Rambus Inc.,Information Technology,Semiconductors and Semiconductor Equipment,55.46,0.0008,-0.1338,-1.69
+BMI,Badger Meter Inc.,Information Technology,Electronic Equipment Instruments and Components,185.17,0.0008,0.2363,2.07
+CFLT,Confluent Inc.,Information Technology,Software,26.01,0.0008,-0.2850,-4.26
+TENB,Tenable Holdings Inc.,Information Technology,Software,41.13,0.0008,0.0324,0.33
+CRUS,Cirrus Logic Inc.,Information Technology,Semiconductors and Semiconductor Equipment,118.80,0.0008,0.5364,3.64
+NSIT,Insight Enterprises Inc.,Information Technology,Electronic Equipment Instruments and Components,197.93,0.0008,0.3735,2.83
+S,SentinelOne Inc.,Information Technology,Software,17.71,0.0008,0.2175,1.86
+CVLT,Commvault Systems Inc.,Information Technology,Software,115.34,0.0008,0.6159,3.92
+SMAR,Smartsheet Inc.,Information Technology,Software,43.89,0.0008,0.1303,1.17
+VRNS,Varonis Systems Inc.,Information Technology,Software,42.76,0.0008,0.6769,4.10
+AVT,Avnet Inc.,Information Technology,Electronic Equipment Instruments and Components,53.71,0.0008,0.1887,1.59
+APPF,AppFolio Inc.,Information Technology,Software,230.53,0.0008,0.4197,2.97
+ASGN,ASGN Incorporated,Information Technology,IT Services,92.48,0.0008,0.2751,2.14
+KD,Kyndryl Holdings Inc.,Information Technology,IT Services,25.95,0.0008,1.0877,5.09
+DLB,Dolby Laboratories Inc.,Information Technology,Software,78.81,0.0008,-0.0362,-0.37
+ALTR,Altair Engineering Inc.,Information Technology,Software,93.59,0.0007,0.2447,1.90
+ITRI,Itron Inc.,Information Technology,Electronic Equipment Instruments and Components,107.10,0.0007,0.4958,3.15
+AMKR,Amkor Technology Inc.,Information Technology,Semiconductors and Semiconductor Equipment,33.88,0.0007,0.3223,2.32
+ACIW,ACI Worldwide Inc.,Information Technology,Software,34.07,0.0007,0.4467,2.94
+WOLF,Wolfspeed Inc.,Information Technology,Semiconductors and Semiconductor Equipment,27.77,0.0007,-0.4773,-8.69
+GTLB,GitLab Inc.,Information Technology,Software,43.93,0.0007,-0.0689,-0.70
+POWI,Power Integrations Inc.,Information Technology,Semiconductors and Semiconductor Equipment,74.32,0.0007,-0.1880,-2.17
+DV,DoubleVerify Holdings Inc.,Information Technology,Software,18.43,0.0007,-0.4692,-8.29
+SLAB,Silicon Laboratories Inc.,Information Technology,Semiconductors and Semiconductor Equipment,119.44,0.0007,-0.2095,-2.49
+SYNA,Synaptics Incorporated,Information Technology,Semiconductors and Semiconductor Equipment,92.87,0.0007,0.1398,1.15
+SMTC,Semtech Corporation,Information Technology,Semiconductors and Semiconductor Equipment,32.30,0.0007,0.4400,2.87
+FIVN,Five9 Inc.,Information Technology,Software,42.90,0.0007,-0.4004,-6.18
+MARA,Marathon Digital Holdings Inc.,Information Technology,Software,19.52,0.0007,1.0810,4.81
+FORM,FormFactor Inc.,Information Technology,Semiconductors and Semiconductor Equipment,53.99,0.0007,0.7725,3.98
+WK,Workiva Inc.,Information Technology,Software,76.75,0.0007,-0.2321,-2.76
+AEIS,Advanced Energy Industries Inc.,Information Technology,Electronic Equipment Instruments and Components,104.97,0.0007,0.0031,0.03
+DIOD,Diodes Incorporated,Information Technology,Semiconductors and Semiconductor Equipment,71.74,0.0007,-0.2268,-2.68
+ACLS,Axcelis Technologies Inc.,Information Technology,Semiconductors and Semiconductor Equipment,126.18,0.0007,-0.2690,-3.31
+BOX,Box Inc.,Information Technology,Software,26.46,0.0007,-0.0863,-0.85
+DXC,DXC Technology Company,Information Technology,IT Services,17.36,0.0007,-0.3502,-4.85
+SANM,Sanmina Corporation,Information Technology,Electronic Equipment Instruments and Components,65.89,0.0007,0.1891,1.43
+TDC,Teradata Corporation,Information Technology,Software,32.21,0.0007,-0.3249,-4.33
+FROG,JFrog Ltd.,Information Technology,Software,32.67,0.0007,0.3237,2.20
+BLKB,Blackbaud Inc.,Information Technology,Software,76.41,0.0007,0.0480,0.40
+BDC,Belden Inc.,Information Technology,Electronic Equipment Instruments and Components,94.97,0.0007,0.0185,0.16
+SEDG,SolarEdge Technologies Inc.,Information Technology,Semiconductors and Semiconductor Equipment,46.34,0.0007,-0.8359,-44.46
+VSH,Vishay Intertechnology Inc.,Information Technology,Electronic Equipment Instruments and Components,22.59,0.0007,-0.1590,-1.65
+PLXS,Plexus Corp.,Information Technology,Electronic Equipment Instruments and Components,102.96,0.0007,0.0833,0.66
+ALRM,Alarm.com Holdings Inc.,Information Technology,Software,62.44,0.0007,0.1987,1.43
+QTWO,Q2 Holdings Inc.,Information Technology,Software,61.16,0.0006,1.1446,4.52
+LITE,Lumentum Holdings Inc.,Information Technology,Communications Equipment,46.03,0.0006,-0.0939,-0.88
+CLSK,CleanSpark Inc.,Information Technology,Software,15.77,0.0006,3.0332,6.27
+ALGM,Allegro MicroSystems Inc.,Information Technology,Semiconductors and Semiconductor Equipment,29.74,0.0006,-0.2345,-2.55
+BL,BlackLine Inc.,Information Technology,Software,45.52,0.0006,-0.1290,-1.24
+FRSH,Freshworks Inc.,Information Technology,Software,12.64,0.0006,-0.1934,-1.97
+CXT,Crane NXT Co.,Information Technology,Electronic Equipment Instruments and Components,61.22,0.0006,0.1019,0.76
+RPD,Rapid7 Inc.,Information Technology,Software,37.62,0.0006,-0.1728,-1.72
+RIOT,Riot Platforms Inc.,Information Technology,Software,9.80,0.0006,-0.0513,-0.44
+IDCC,InterDigital Inc.,Information Technology,Software,116.11,0.0006,0.3368,2.04
+PEGA,Pegasystems Inc.,Information Technology,Software,57.99,0.0006,0.2522,1.60
+KLIC,Kulicke and Soffa Industries Inc.,Information Technology,Semiconductors and Semiconductor Equipment,45.13,0.0006,-0.1991,-1.98
+AI,C3.ai Inc.,Information Technology,Software,30.17,0.0006,-0.1844,-1.80
+BRZE,Braze Inc.,Information Technology,Software,37.70,0.0006,0.1090,0.78
+ENV,Envestnet Inc.,Information Technology,Software,63.86,0.0006,0.1822,1.20
+IPGP,IPG Photonics Corporation,Information Technology,Electronic Equipment Instruments and Components,86.39,0.0006,-0.2361,-2.42
+RNG,RingCentral Inc.,Information Technology,Software,34.52,0.0006,0.0476,0.35
+ROG,Rogers Corporation,Information Technology,Electronic Equipment Instruments and Components,116.29,0.0006,-0.2492,-2.55
+CRDO,Credo Technology Group Holding Ltd,Information Technology,Semiconductors and Semiconductor Equipment,29.13,0.0006,0.7676,3.28
+ZETA,Zeta Global Holdings Corp.,Information Technology,Software,16.59,0.0006,0.8661,3.51
+VECO,Veeco Instruments Inc.,Information Technology,Semiconductors and Semiconductor Equipment,43.49,0.0006,0.7306,3.19
+PLUS,ePlus inc.,Information Technology,Electronic Equipment Instruments and Components,72.52,0.0006,0.3188,1.83
+SPT,Sprout Social Inc.,Information Technology,Software,34.03,0.0006,-0.2845,-3.00
+VRNT,Verint Systems Inc.,Information Technology,Software,35.59,0.0006,-0.0372,-0.29
+RAMP,LiveRamp Holdings Inc.,Information Technology,Software,30.59,0.0006,0.2105,1.29
+CWAN,Clearwater Analytics Holdings Inc.,Information Technology,Software,20.25,0.0006,0.2291,1.38
+OSIS,OSI Systems Inc.,Information Technology,Electronic Equipment Instruments and Components,137.30,0.0006,0.0875,0.60
+PRGS,Progress Software Corporation,Information Technology,Software,49.95,0.0006,-0.1549,-1.36
+AGYS,Agilysys Inc.,Information Technology,Software,93.48,0.0006,0.2827,1.61
+MIR,Mirion Technologies Inc.,Information Technology,Electronic Equipment Instruments and Components,9.96,0.0006,0.2444,1.43
+UCTT,Ultra Clean Holdings Inc.,Information Technology,Semiconductors and Semiconductor Equipment,46.51,0.0006,0.2670,1.54
+SQSP,Squarespace Inc.,Information Technology,IT Services,43.91,0.0006,0.4813,2.33
+AUR,Aurora Innovation Inc.,Information Technology,Software,2.33,0.0006,0.0175,0.12
+DOCN,DigitalOcean Holdings Inc.,Information Technology,IT Services,36.64,0.0006,-0.1644,-1.41
+PD,PagerDuty Inc.,Information Technology,Software,19.72,0.0005,-0.1077,-0.82
+AMBA,Ambarella Inc.,Information Technology,Semiconductors and Semiconductor Equipment,57.34,0.0005,-0.2872,-2.73
+VIAV,Viavi Solutions Inc.,Information Technology,Communications Equipment,7.26,0.0005,-0.2689,-2.49
+PLAB,Photronics Inc.,Information Technology,Semiconductors and Semiconductor Equipment,26.00,0.0005,0.1319,0.77
+CALX,Calix Inc.,Information Technology,Communications Equipment,35.64,0.0005,-0.3088,-2.85
+VYX,NCR Voyix Corporation,Information Technology,Software,12.64,0.0005,-0.1714,-1.32
+PRFT,Perficient Inc.,Information Technology,IT Services,74.34,0.0005,-0.0041,-0.03
+MXL,MaxLinear Inc.,Information Technology,Semiconductors and Semiconductor Equipment,16.83,0.0005,-0.4222,-4.57
+INFA,Informatica Inc.,Information Technology,Software,28.62,0.0005,0.6234,2.30
+XRX,Xerox Holdings Corporation,Information Technology,Technology Hardware Storage and Peripherals,14.18,0.0005,-0.0014,-0.01
+TTMI,TTM Technologies Inc.,Information Technology,Electronic Equipment Instruments and Components,18.25,0.0004,0.3167,1.41
+SITM,SiTime Corporation,Information Technology,Semiconductors and Semiconductor Equipment,118.55,0.0004,0.0701,0.38
+IONQ,IonQ Inc.,Information Technology,Technology Hardware Storage and Peripherals,8.04,0.0004,-0.2384,-1.79
+NCNO,nCino Inc.,Information Technology,Software,30.17,0.0004,0.2571,1.17
+FSLY,Fastly Inc.,Information Technology,IT Services,7.41,0.0004,-0.5539,-7.12
+VERX,Vertex Inc.,Information Technology,Software,34.04,0.0004,0.5278,1.98
+COHU,Cohu Inc.,Information Technology,Semiconductors and Semiconductor Equipment,30.91,0.0004,-0.1936,-1.35
+KN,Knowles Corporation,Information Technology,Electronic Equipment Instruments and Components,17.50,0.0004,0.0119,0.07
+EXTR,Extreme Networks Inc.,Information Technology,Communications Equipment,11.49,0.0004,-0.4932,-5.45
+CXM,Sprinklr Inc.,Information Technology,Software,8.75,0.0004,-0.3664,-3.16
+EVBG,Everbridge Inc.,Information Technology,Software,34.75,0.0004,0.3258,1.34
+NTCT,NetScout Systems Inc.,Information Technology,Communications Equipment,18.98,0.0004,-0.3723,-3.17
+APPN,Appian Corporation,Information Technology,Software,27.32,0.0004,-0.4089,-3.61
+INTA,Intapp Inc.,Information Technology,Software,35.03,0.0004,-0.2040,-1.34
+YOU,Clear Secure Inc.,Information Technology,Software,18.10,0.0004,-0.1803,-1.15
+CTS,CTS Corporation,Information Technology,Electronic Equipment Instruments and Components,51.94,0.0004,0.1032,0.49
+NSSC,Napco Security Technologies Inc.,Information Technology,Electronic Equipment Instruments and Components,50.16,0.0004,0.3345,1.31
+ZUO,Zuora Inc.,Information Technology,Software,9.82,0.0004,-0.1564,-0.92
+ICHR,Ichor Holdings Ltd.,Information Technology,Semiconductors and Semiconductor Equipment,37.46,0.0004,0.1027,0.46
+PRO,PROS Holdings Inc.,Information Technology,Software,27.70,0.0004,-0.0782,-0.42
+ASAN,Asana Inc.,Information Technology,Software,13.53,0.0004,-0.4042,-3.18
+MTTR,Matterport Inc.,Information Technology,Software,4.14,0.0004,0.4392,1.43
+PAR,PAR Technology Corporation,Information Technology,Electronic Equipment Instruments and Components,46.52,0.0003,0.2679,0.96
+MODN,Model N Inc.,Information Technology,Software,29.91,0.0003,-0.0917,-0.45
+HLIT,Harmonic Inc.,Information Technology,Communications Equipment,11.31,0.0003,-0.3713,-2.62
+ACMR,ACM Research Inc.,Information Technology,Semiconductors and Semiconductor Equipment,22.19,0.0003,1.0758,2.30
+ARLO,Arlo Technologies Inc.,Information Technology,Electronic Equipment Instruments and Components,13.01,0.0003,0.3454,1.10
+DGII,Digi International Inc.,Information Technology,Communications Equipment,22.55,0.0003,-0.3977,-2.84
+BHE,Benchmark Electronics Inc.,Information Technology,Electronic Equipment Instruments and Components,41.11,0.0003,0.7181,1.74
+ADEA,Adeia Inc.,Information Technology,Software,11.46,0.0003,0.1023,0.37
+SCSC,ScanSource Inc.,Information Technology,Electronic Equipment Instruments and Components,45.93,0.0003,0.5049,1.36
+ALKT,Alkami Technology Inc.,Information Technology,Software,27.27,0.0003,0.7765,1.77
+PWSC,PowerSchool Holdings Inc.,Information Technology,Software,22.41,0.0003,0.2068,0.67
+JAMF,Jamf Holding Corp.,Information Technology,Software,15.40,0.0003,-0.1756,-0.80
+INFN,Infinera Corporation,Information Technology,Communications Equipment,5.35,0.0003,0.1863,0.59
+VSAT,Viasat Inc.,Information Technology,Communications Equipment,15.22,0.0003,-0.6501,-7.02
+SGH,SMART Global Holdings Inc.,Information Technology,Semiconductors and Semiconductor Equipment,21.71,0.0003,-0.0954,-0.38
+ATEN,A10 Networks Inc.,Information Technology,Software,14.13,0.0003,0.0132,0.05
+PDFS,PDF Solutions Inc.,Information Technology,Semiconductors and Semiconductor Equipment,34.37,0.0003,-0.2185,-0.98
+AVPT,AvePoint Inc.,Information Technology,Software,9.07,0.0003,0.3940,0.92
+SOUN,SoundHound AI Inc.,Information Technology,Software,4.75,0.0003,0.8218,1.47
+ETWO,E2open Parent Holdings Inc.,Information Technology,Software,4.46,0.0002,-0.1762,-0.67
+INDI,indie Semiconductor Inc.,Information Technology,Semiconductors and Semiconductor Equipment,7.50,0.0002,-0.2579,-1.04
+NABL,N-able Inc.,Information Technology,Software,14.24,0.0002,-0.0169,-0.05
+BASE,Couchbase Inc.,Information Technology,IT Services,17.95,0.0002,0.1094,0.28
+CNXN,PC Connection Inc.,Information Technology,Electronic Equipment Instruments and Components,64.57,0.0002,0.3881,0.80
+AMPL,Amplitude Inc.,Information Technology,Software,8.30,0.0002,-0.1973,-0.64
+MITK,Mitek Systems Inc.,Information Technology,Software,12.07,0.0002,0.1539,0.30
+YEXT,Yext Inc.,Information Technology,Software,4.97,0.0002,-0.6165,-3.56
+GDYN,Grid Dynamics Holdings Inc.,Information Technology,IT Services,9.90,0.0002,0.0010,0.00
+NVTS,Navitas Semiconductor Corporation,Information Technology,Semiconductors and Semiconductor Equipment,4.38,0.0002,-0.5265,-2.32
+HCKT,The Hackett Group Inc.,Information Technology,IT Services,22.09,0.0002,0.1037,0.20
+SWI,SolarWinds Corporation,Information Technology,Software,11.61,0.0002,0.2879,0.47
+OLO,Olo Inc.,Information Technology,Software,4.45,0.0001,-0.3919,-1.26
+AOSL,Alpha and Omega Semiconductor Limited,Information Technology,Semiconductors and Semiconductor Equipment,29.20,0.0001,-0.0076,-0.02
+LASR,nLIGHT Inc.,Information Technology,Electronic Equipment Instruments and Components,11.98,0.0001,-0.1902,-0.46
+CRSR,Corsair Gaming Inc.,Information Technology,Technology Hardware Storage and Peripherals,11.15,0.0001,-0.4051,-1.33
+KE,Kimball Electronics Inc.,Information Technology,Electronic Equipment Instruments and Components,21.98,0.0001,-0.1707,-0.40
+XPER,Xperi Inc.,Information Technology,Software,7.82,0.0001,-0.3158,-0.84
+CEVA,CEVA Inc.,Information Technology,Semiconductors and Semiconductor Equipment,20.11,0.0001,-0.1826,-0.41
+SEMR,Semrush Holdings Inc.,Information Technology,Software,15.14,0.0001,1.0322,0.86
+LWLG,Lightwave Logic Inc.,Information Technology,Electronic Equipment Instruments and Components,2.56,0.0001,-0.7033,-4.01
+CLFD,Clearfield Inc.,Information Technology,Communications Equipment,38.79,0.0001,-0.1859,-0.36
+MEI,Methode Electronics Inc.,Information Technology,Electronic Equipment Instruments and Components,9.79,0.0001,-0.7766,-5.44
+SMRT,SmartRent Inc.,Information Technology,Electronic Equipment Instruments and Components,2.35,0.0001,-0.3047,-0.69
+NTGR,NETGEAR Inc.,Information Technology,Communications Equipment,14.11,0.0001,0.0311,0.05
+BIGC,BigCommerce Holdings Inc.,Information Technology,IT Services,8.13,0.0001,-0.1234,-0.20
+EVLV,Evolv Technologies Holdings Inc.,Information Technology,Electronic Equipment Instruments and Components,2.50,0.0001,-0.5943,-2.10
+UIS,Unisys Corporation,Information Technology,IT Services,4.26,0.0001,0.0265,0.04
+WEAV,Weave Communications Inc.,Information Technology,Software,8.99,0.0001,0.1798,0.22
+FARO,FARO Technologies Inc.,Information Technology,Electronic Equipment Instruments and Components,17.62,0.0001,0.1630,0.20
+CRNC,Cerence Inc.,Information Technology,Software,3.06,0.0001,-0.8994,-12.81
+NN,NextNav Inc.,Information Technology,Software,7.44,0.0001,1.6763,0.82
+OSPN,OneSpan Inc.,Information Technology,Software,13.24,0.0001,-0.1812,-0.29
+MLNK,MeridianLink Inc.,Information Technology,Software,19.95,0.0001,-0.0136,-0.02
+WULF,TeraWulf Inc.,Information Technology,Software,3.16,0.0001,1.3759,0.75
+ADTN,ADTRAN Holdings Inc.,Information Technology,Communications Equipment,5.00,0.0001,-0.4628,-1.12
+AEHR,Aehr Test Systems,Information Technology,Semiconductors and Semiconductor Equipment,13.03,0.0001,-0.6937,-2.95
+ENFN,Enfusion Inc.,Information Technology,Software,8.59,0.0001,0.0381,0.05
+AMSWA,American Software Inc.,Information Technology,Software,9.34,0.0001,-0.0561,-0.08
+RBBN,Ribbon Communications Inc.,Information Technology,Communications Equipment,3.00,0.0001,0.0989,0.11
+OUST,Ouster Inc.,Information Technology,Electronic Equipment Instruments and Components,11.52,0.0001,1.0489,0.60
+DMRC,Digimarc Corporation,Information Technology,Software,28.78,0.0001,-0.0435,-0.05
+MVIS,MicroVision Inc.,Information Technology,Electronic Equipment Instruments and Components,1.07,0.0001,-0.8396,-5.45
+EGHT,8x8 Inc.,Information Technology,Software,2.58,0.0001,-0.3380,-0.47
+CIFR,Cipher Mining Inc.,Information Technology,Software,4.29,0.0001,0.8674,0.42
+DOMO,Domo Inc.,Information Technology,Software,6.84,0.0001,-0.5220,-1.00
+APLD,Applied Digital Corporation,Information Technology,IT Services,4.55,0.0001,-0.4303,-0.69
+TWKS,Thoughtworks Holding Inc.,Information Technology,IT Services,2.85,0.0001,-0.6261,-1.53
+LAW,CS Disco Inc.,Information Technology,Software,5.78,0.0001,-0.2802,-0.30
+CCSI,Consensus Cloud Solutions Inc.,Information Technology,Software,18.29,0.0001,-0.4857,-0.74
+MX,Magnachip Semiconductor Corporation,Information Technology,Semiconductors and Semiconductor Equipment,4.94,0.0001,-0.5597,-0.99
+COMM,CommScope Holding Company Inc.,Information Technology,Communications Equipment,1.55,0.0001,-0.6552,-1.49
+TLS,Telos Corporation,Information Technology,Software,4.08,0.0001,0.5167,0.22
+ONTF,ON24 Inc.,Information Technology,Software,5.62,0.0001,-0.3079,-0.29
+APPS,Digital Turbine Inc.,Information Technology,Software,1.54,0.0001,-0.8298,-3.18
+TCX,Tucows Inc.,Information Technology,IT Services,21.04,0.0001,-0.3083,-0.29
+RMNI,Rimini Street Inc.,Information Technology,Software,2.77,0.0000,-0.3618,-0.30
+MASS,908 Devices Inc.,Information Technology,Electronic Equipment Instruments and Components,6.20,0.0000,-0.3410,-0.27
+RXT,Rackspace Technology Inc.,Information Technology,IT Services,2.25,0.0000,0.2829,0.09
+VERI,Veritone Inc.,Information Technology,Software,2.63,0.0000,-0.3375,-0.20
+AEVA,Aeva Technologies Inc.,Information Technology,Electronic Equipment Instruments and Components,3.14,0.0000,-0.5482,-0.32
+EXFY,Expensify Inc.,Information Technology,Software,1.45,0.0000,-0.7978,-1.03
+PMTS,CPI Card Group Inc.,Information Technology,Technology Hardware Storage and Peripherals,26.73,0.0000,0.1607,0.04
+SCWX,SecureWorks Corp.,Information Technology,Software,6.24,0.0000,-0.2216,-0.07
+LPSN,LivePerson Inc.,Information Technology,Software,0.66,0.0000,-0.8137,-0.57
+FCUV,Focus Universal Inc.,Information Technology,Electronic Equipment Instruments and Components,0.24,,-0.8393,
+[object Object],Vanguard Market Liquidity Fund,Unclassified,Unclassified,,0.0029,,
+[object Object],Vanguard Market Liquidity Fund,Unclassified,Unclassified,,0.0017,,
